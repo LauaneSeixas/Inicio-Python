@@ -1,0 +1,52 @@
+#o primt é usado para imprimir na tela o comando dado.
+
+#print('Olá, Mundo!')    
+
+#print(7+4)
+
+#print('7'+'4')
+
+#toda variável é um objto pro python
+
+#variávies
+#nome = 'Guanabara'
+#idade = 25
+#peso = 75.8
+#print(nome, idade, peso)
+
+#print siginica receba
+#input significa leia
+
+#nome = input('Qual é seu nome?')
+#idade = input('Quantos anos você tem?')
+#peso = input('Quanto você pesa?')
+#print(nome, idade, peso)
+
+#CRIE UM SCRIPT PYTHON QUE LEIA O NOME DE UMA PESSOA E MOSTRA UMA MENSAGEM DE BOAS-VINDAS DE ACORDO COM O VALOR DIGITADO.
+
+#nome = input('Qual é o seu nome?')
+#print('Olá', nome, '! Prazer em te conhecer!')
+
+#CRIE UM SCRIPT PYTHON QUE LEIA O DIA, O MÊS E O ANO DE NASCIMENTO DE UMA PESSOA E MOSTRE UMA MENSAGEM COM A DATA FORMATADA.
+
+#dia = input('Dia = ')
+#mês = input('Mês = ')
+#ano = input('Ano = ')
+#print('Você nasceu no dia',dia,'de', mês, 'de ' + ano,'. Correto?')
+
+
+#a = int(input('Primeiro número:'))
+#b = int(input('Segundo número:'))
+#soma = (a+b)
+#print('A soma entre:', a, 'e', b, 'vale', soma)
+#print('A soma entre {} e {} vale {}'.format(a, b, soma))
+
+#FAÇA UM PRODGRAMA QUE LEIA ALGO PELO TECLADO E MOSTRE NA TELA O SEU TIPO PRIMITIVO E TODAS AS INFORMAÇÕES POSSIVEIS SOBRE ELE
+
+#n = str(input('Digite o seu nome: '))
+#a = float(input('Digite sua altura: '))
+#i = int(input('Digite sua idade: '))
+#print(type(i))
+#print(type(n))
+#print(type(a))
+
